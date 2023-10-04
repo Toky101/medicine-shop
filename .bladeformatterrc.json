@@ -1,0 +1,6 @@
+{
+    "indentSize": 2,
+    "wrapLineLength": 100,
+    "wrapAttributesMinAttrs": 2,
+    "indentInnerHtml": true
+}
